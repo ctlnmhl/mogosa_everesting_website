@@ -39,5 +39,4 @@ const images = [
     visibleImage = nextVisible;
   }
   
-  // Change background every 23 seconds
-  setInterval(changeBackground, 5000); // 20s display + 3s transition
+  setInterval(changeBackground, 10000);
