@@ -1867,8 +1867,8 @@ input, select, textarea {
 						top: 6px;
 						left: 6px;
 						display: block;
-						width: 54px;
-						height: 38px;
+						width: 62px;
+						height: 40px;
 						line-height: 38px;
 						text-align: center;
 						color: rgba(255, 255, 255, 0.75);
@@ -2003,10 +2003,10 @@ input, select, textarea {
 		outline: none;
 	}
 	.flag-icon {
-		width: 25px;
+		width: 30px;
 		height: auto;
 		border-radius: 50%;
-		border: n
+		border: none;
 	}
 
 	/* Dropdown Menu */
