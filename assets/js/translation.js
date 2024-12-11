@@ -23,7 +23,8 @@ const translations = {
         "program-subtitle2-description": "<li>7:00 - 8:00<br>Ridicare kituri participanți de la Domeniul Mogoșa</li><li>9:00<br>Start Mogoșa Everesting</li>",
         "program-subtitle3": "DUMINICĂ 3 August 2025",
         "program-subtitle3-description": "<li>9:00 <br>Finish - Termen limită: 24 ore</li><li>10:00<br>Festivitatea de premiere</li>",
-        "program-subtitle4": "PUNCT DE START",
+        "program-subtitle4": "Punct de start, ridicare kituri, premiere: Domeniul Mogoșa, Baia Sprie",
+        "program-subtitle5": "Cum Ajungi:",
 
         "register-title": "Înscriere",
         "register-subtitle1": "Kitul participantului",
@@ -188,7 +189,8 @@ const translations = {
         "program-subtitle2-description": "<li>7:00 - 8:00<br>Participant kits pick-up from Mogoșa Domain</li><li>9:00<br>Mogoșa Everesting start</li>",
         "program-subtitle3": "SUNDAY August 3, 2025",
         "program-subtitle3-description": "<li>9:00 <br>Finish - Deadline: 24 hours</li><li>10:00<br>Awards Ceremony</li>",
-        "program-subtitle4": "STARTING POINT",
+        "program-subtitle4": "Starting point, kit pick-up, awards: Mogoșa Domain, Baia Sprie",
+        "program-subtitle5": "How to get there:",
 
         "register-title": "Registration",
         "register-subtitle1": "Participant kit",
@@ -354,7 +356,8 @@ const translations = {
         "program-subtitle2-description": "<li>7:00 - 8:00<br>Részvevői készletek átvétele a Mogoșa domainről</li><li>9:00<br>Mogoșa Everesting start</li>",
         "program-subtitle3": "VASÁRNAP 2025. augusztus 3.",
         "program-subtitle3-description": "<li>9:00 <br>Befejezés - Határidő: 24 óra</li><li>10:00<br>Díjkiosztó</li>",
-        "program-subtitle4": "KIINDULÓPONT",
+        "program-subtitle4": "Kiindulópont, készletfelvétel, díjak: Mogoșa Domain, Baia Sprie",
+        "program-subtitle5": "Hogyan juthatunk el oda:",
 
         "register-title": "Bejegyzés",
         "register-subtitle1": "Résztvevő készlet",
